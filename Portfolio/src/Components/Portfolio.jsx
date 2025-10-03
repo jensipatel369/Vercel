@@ -14,7 +14,7 @@ export default function Portfolio() {
             title: "District by Zomato",
             disc : "Using by React JS",
             github: "https://github.com/jensipatel369/React-JS/tree/main/Project/district%20by%20zometo",
-            demo: "https://district-by-zomato.vercel.app/"
+            demo: "https://district-by-zometo.vercel.app/"
         },      
         {
             image: "BCCI.png",
